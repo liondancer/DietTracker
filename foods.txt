@@ -1,0 +1,3 @@
+hi --> Serving size: 3g, Protein: 2g, Carbs: 13g, Fats: 2g, Fiber: 2g, Sodium: 2mg
+dfslkj --> Serving size: 3g, Protein: 4g, Carbs: 2g, Fats: 3g, Fiber: 3g, Sodium: 2mg
+chicken --> Serving size: 55g, Protein: 40g, Carbs: 5g, Fats: 2g, Fiber: 4g, Sodium: 2mg
